@@ -21,6 +21,8 @@ on:
       - "main"
       - "dev"
       - "feature*"
+  pull_request:
+      types: [opened, synchronize, reopened]
 
 ###############
 # Set the Job #
