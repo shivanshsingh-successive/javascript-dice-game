@@ -1,3 +1,4 @@
 # javascript-dice-game
-# Nice solution
 # Two player dice game
+
+Added sonar integration
